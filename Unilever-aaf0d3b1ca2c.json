@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unilever-ml",
+  "private_key_id": "aaf0d3b1ca2c5487b3ae9cd094d851d210cc7f79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGmIDtpph434i6\nHmNgAQh162fUMJ4C/0sxkqWzlAorOu+ieMZEKq8Ju2ueoSB7JehFxz0BbI1WRmhC\n7gT4h/NNDY7gYyO4XiHNEJDXGNT35OZ5mTgJpTkwVnUA7XPvzr7KCeZ3tSpVnQsy\nq40g6rmg6ibHcmDDar8FESXMw5JB973wiKKl7aTWzKtwSki4pmRLvXuT2UuF+Vp+\nOqPp/a/57bj73pl+Z3PejiVRexSdOJqPItzGtOCPV47Vq2NezALCwBw0kDF/4LwR\nvthZOdl4sYSQXXiVKUNXJVTMjZdXeJOF+7USot6IMUAye9ofC/sN/WPdCQyL729i\n6VycUbV/AgMBAAECggEABd14JUyfwSYc5B5Eog+1v8HJibc722vNvTOPCDwthrRR\nYnN9q4K1M6zg00j/7BMlBnaJYzLhA7TFnIBqDir5sQNe/lp/MhE5n1RHasrVc1LD\nycCQKpzCER7kirf4jhMFiHL9ZvinPOsL6x2s59V20P1JUueaWvsalBw7CQ6XkbIh\nilsYgBiEC7NyJZbmhUrW+90M+oPcX90hPmtFx5C4LKSQVCytUvDbrp9CrSZFnoZG\nr5K91YgcJWJ2W19ibl0dokajZiMDuFDuYZ7fp30jheV02H5izSVexlKJ+b/ikJmc\nsGLIpfXEfXNJx5qmEjnugjSENWzJHNCDz0Wn3DnSwQKBgQDqbFRRaLPEL3yb6/nu\nCGt2gzZVrzkU4EhfazWR4X9wYJfV63fE9tU6bbMouBXP2tdFIadF0a7LPu3X+Gp7\nHy3OUOymAwqRcOnkCz8dvHgvds/lwuxBawezi78725b1NwICctUv5G3p/iVCgQ6L\ngAAvmRNtChUv5stwk9zlNLTCwQKBgQDY3/qJS2BZHmtC5bihjqc3wk6PKvI7k9W8\ngZd2T9m+l5WkiX1yozDLZgRpmRJeYS3J1173aKGao3YdhjDc6C8rEW8/VT6/9PQ9\nEcYfv18O/Mq01NGILEpxNzhLS9kpooXfC65aOmLskxH6iG8iucNqF1UtQlIpi1T7\nuo1Xem/IPwKBgA2jkeBOrC7c6G4V86uit8XkanPfxv1s8ykCDtLXANgj9pGOqqA+\nEDffDA5xb2txexbdl2LbiUTv+1yWanORY9PeJ3adNK8zl5gaA2kSfxeb3QqsJZzE\nwmTy24R7CTRpJ+fGkJrBupdjnv1YjuUU5G3ghR3R+VuZHPsGz1JSl7XBAoGAYTsZ\nkdAvZAUVRarEOfpA0ejVW65/Z2KCIr9e7nYiQyamulvB2FF9oNMeC1HLQHEFHEbo\nlrdcLH44iEgPRBr8eqyYWaaYOWtSzMZZMwaTUZ7YKnZ3cjuZLGT7YhahR99LcZJF\nGsKucy4Ek3Pzj3gFOl03nNDtER8cfLdIgv2re/UCgYEA6Ap5KncM+WWkRU9KlSZ1\nL+oZwf1R3WI1vlPOzOcF1TN5fBaltK6e6BWiQeuh3N35vmUpqDjvF9s15AR9lCIi\nGmp61ofWjJRYzuW+mlugqHKi0tpQXolo6W4ZNsGS1dc7Ecm6qXwv06MQNh6Mixcb\niIudKCeIqDW52Lx5VzoIqWI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcservice@unilever-ml.iam.gserviceaccount.com",
+  "client_id": "101503211236197565224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcservice%40unilever-ml.iam.gserviceaccount.com"
+}
